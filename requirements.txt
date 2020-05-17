@@ -84,4 +84,4 @@ usb-creator==0.3.3
 vboxapi==1.0
 wcwidth==0.1.9
 webdriver-manager==2.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
