@@ -14,7 +14,7 @@ cryptography==2.1.4
 cupshelpers==1.0
 defer==1.0.6
 docutils==0.14
-Flask==0.12.2
+Flask==1.0
 future==0.18.2
 google-api-core==1.17.0
 google-api-python-client==1.8.3
