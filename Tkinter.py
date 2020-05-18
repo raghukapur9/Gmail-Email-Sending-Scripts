@@ -56,7 +56,7 @@ def login_popup():
     tk.Label(window, text="Password").grid(row=1)
 
     from_email = tk.Entry(window)
-    password = tk.Entry(window)
+    password = tk.Entry(window,show="*")
     
     from_email.grid(row=0, column=1)
     password.grid(row=1, column=1)
