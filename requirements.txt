@@ -10,7 +10,7 @@ click==6.7
 colorama==0.4.3
 configparser==5.0.0
 crayons==0.3.0
-cryptography==2.1.4
+cryptography==3.2
 cupshelpers==1.0
 defer==1.0.6
 docutils==0.14
