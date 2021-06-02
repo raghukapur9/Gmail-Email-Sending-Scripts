@@ -79,7 +79,7 @@ tkintertable==1.3.2
 ufw==0.36
 unattended-upgrades==0.1
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 usb-creator==0.3.3
 vboxapi==1.0
 wcwidth==0.1.9
